@@ -1,7 +1,7 @@
 ---
 layout: default
 title: QI2024 satellite workshop
-description: theory and software approach for quantum computing from NISQ to FTQC
+description: XXX
 ---
 
 ## About the Workshop
@@ -34,16 +34,17 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
 
 ## Contact
 
-For inquiries or more information, please contact: qi2023satellite@qc.ee.es.osaka-u.ac.jp
+For inquiries or more information, please contact: qi2024satellite@osaka-u.ac.jp　（under preparation）
 
 
 ## Organizers
 
 - Keisuke Fujii
+- Tsubasa Ichikawa
 - Takefumi Miyoshi
 - Makoto Negoro
 - Yasunari Suzuki
-- Tsubasa Ichikawa
+(Alphabetical order)
 
 We look forward to seeing you at the workshop!
 
