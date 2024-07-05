@@ -19,7 +19,7 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
 
 ## Registration
 
-- **Registration form:** [registration page](https://docs.google.com/forms/d/e/1FAIpQLSfleazSdFvpIHLL7mWfi-Ec2-5hPY4yCZAu98Spla0iLrl5Yg/viewform?usp=sharing).
+- **Registration form:** [registration page]().
 - ~~**Registration deadline for those attending the networking event:** November 4th.~~
 - Registration for the event is open until the day of the event; you can even register upon arrival. This is solely for the purpose of counting the number of participants.
 - Registration fee is free.
