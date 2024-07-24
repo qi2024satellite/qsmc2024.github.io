@@ -19,7 +19,7 @@ description: Program
 | 15:30-15:50 | | Break |
 | 15:50-17:50 | TBA | TBA |
 | 17:50 | | Networking event |
-| **Oct. 18st (Fri)** | | |
+| **Oct. 18th (Fri)** | | |
 | 10:10-10:50 | TBA | TBA |
 | 10:50-11:30 | TBA | TBA |
 | 11:30-12:10 | TBA | TBA |
