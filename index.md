@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Quantum software, middleware, and controller for near-term quantum computing systems
-description: XXX
 ---
 
 ## About the Workshop
