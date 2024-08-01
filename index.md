@@ -38,7 +38,7 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
 
 ## Contact
 
-For inquiries or more information, please contact: 　（under preparation）
+For inquiries or more information, please contact: qsmc.2024@gmail.com
 
 
 ## Organizers
@@ -53,4 +53,4 @@ For inquiries or more information, please contact: 　（under preparation）
 We look forward to seeing you at the workshop!
 
 ## Sponsor
-This workshop is sponsored by [MEXT Q-LEAP QuAI Flagship project](https://qleap-qai.jp/). 
+This workshop is sponsored by [JST COI-NEXT Quantum Software Research Hub](https://qsrh.jp) and [MEXT Q-LEAP QuAI Flagship project](https://qleap-qai.jp/). 
