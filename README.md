@@ -1,1 +1,1 @@
-# QI2024 satellite
+# QSMC2024
