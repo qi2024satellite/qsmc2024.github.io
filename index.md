@@ -27,12 +27,6 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
   
 ## Invited speakers
 
-- Stefano Carrazza
-- Takafumi Miyanaga
-- Takefumi Miyoshi
-- Kazuhisa Ogawa
-- Yasunari Suzuki
-- Miwako Tsuji
 - to be confirmed
 (Alphabetical order)
 
