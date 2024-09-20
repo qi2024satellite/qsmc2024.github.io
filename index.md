@@ -19,7 +19,7 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
 
 ## Registration
 
-- **Registration form:** [registration page](). (under construction)
+- **Registration form:** [registration page](https://forms.gle/H8CY4kfHZVAGxxPJ6).
 - **Registration deadline for those attending the networking event:** 
 - Registration for the event is open until the day of the event; you can even register upon arrival. This is solely for the purpose of counting the number of participants.
 - Registration fee is free.
@@ -27,6 +27,12 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
   
 ## Invited speakers
 
+- Ilkwon Byun
+- Stefano Carrazza
+- Takefumi Miyoshi
+- Kazuhisa Ogawa
+- Yasunari Suzuki
+- Miwako Tsuji 
 - to be confirmed
 (Alphabetical order)
 
