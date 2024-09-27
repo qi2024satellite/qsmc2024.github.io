@@ -37,6 +37,8 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
 - Kazuhisa Ogawa (Osaka U.)
 - Yasunari Suzuki (NTT)
 - Miwako Tsuji (RIKEN)
+- TBA
+- TBA
 (Alphabetical order)
 
 ## Contact
