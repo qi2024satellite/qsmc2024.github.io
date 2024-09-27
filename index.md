@@ -27,16 +27,16 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
   
 ## Invited speakers
 
-- Ilkwon Byun
-- Stefano Carrazza
-- Naoki Kanazawa
-- Shinji Kikuchi
-- Noriyuki Kushida
-- Takafumi Miyanaga
-- Takefumi Miyoshi
-- Kazuhisa Ogawa
-- Yasunari Suzuki
-- Miwako Tsuji 
+- Ilkwon Byun (Kyushu U.)
+- Stefano Carrazza (U. Millan / TII)
+- Naoki Kanazawa (IBM)
+- Shinji Kikuchi (Fujitsu)
+- Noriyuki Kushida (OQC)
+- Takafumi Miyanaga (Osaka U.)
+- Takefumi Miyoshi (QuEL)
+- Kazuhisa Ogawa (Osaka U.)
+- Yasunari Suzuki (NTT)
+- Miwako Tsuji (RIKEN)
 (Alphabetical order)
 
 ## Contact
@@ -46,11 +46,11 @@ For inquiries or more information, please contact: qsmc.2024@gmail.com
 
 ## Organizers
 
-- Keisuke Fujii
-- Tsubasa Ichikawa
-- Takefumi Miyoshi
-- Makoto Negoro
-- Yasunari Suzuki
+- Keisuke Fujii (Osaka U.)
+- Tsubasa Ichikawa (Osaka U.)
+- Takefumi Miyoshi (QuEL)
+- Makoto Negoro (Osaka U.)
+- Yasunari Suzuki (NTT)
 (Alphabetical order)
 
 We look forward to seeing you at the workshop!
