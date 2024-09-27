@@ -17,7 +17,7 @@ description: Program
 | 13:40-14:20 | TBA | TBA |
 | 14:20-16:20 | | Poster session |
 | 16:20-17:00 | TBA | TBA |
-| 17:00-17:40 | | Break |
+| 17:00-17:40 | TBA | TBA |
 | 17:40 | | Networking event |
 | **Oct. 18th (Fri)** | | |
 | 10:10-10:50 | TBA | TBA |
