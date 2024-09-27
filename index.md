@@ -30,11 +30,13 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
 - Ilkwon Byun
 - Stefano Carrazza
 - Naoki Kanazawa
+- Shinji Kikuchi
+- Noriyuki Kushida
+- Takafumi Miyanaga
 - Takefumi Miyoshi
 - Kazuhisa Ogawa
 - Yasunari Suzuki
 - Miwako Tsuji 
-- to be confirmed
 (Alphabetical order)
 
 ## Contact
