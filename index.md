@@ -34,7 +34,7 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
 - Shinji Kikuchi (Fujitsu)
 - Noriyuki Kushida (OQC)
 - Takafumi Miyanaga (Osaka U.)
-- Takefumi Miyoshi (QuEL)
+- Takefumi Miyoshi (QuEL / e-trees.Japan / Osaka U.)
 - Kazuhisa Ogawa (Osaka U.)
 - Yasunari Suzuki (NTT)
 - Miwako Tsuji (RIKEN)
