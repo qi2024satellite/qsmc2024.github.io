@@ -16,7 +16,7 @@ description: Program
 | 12:10-13:40 | | Lunch (1.5h) |
 | 13:40-14:20 | Noriyuki Kushida (OQC) | TBA |
 | 14:20-16:20 | | Poster session |
-| 16:20-17:00 | Neil Lembert (RIKEN) | TBA |
+| 16:20-17:00 | Neil Lambert (RIKEN) | TBA |
 | 17:00-18:00 | TBA (Quantinuum) | TBA (online) |
 | 18:00 | | Networking event |
 | **Oct. 18th (Fri)** | | |
