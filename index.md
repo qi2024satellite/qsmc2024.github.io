@@ -33,6 +33,7 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
 - Naoki Kanazawa (IBM)
 - Shinji Kikuchi (Fujitsu)
 - Noriyuki Kushida (OQC)
+- Neil Lambert (RIKEN)
 - Takafumi Miyanaga (Osaka U.)
 - Takefumi Miyoshi (QuEL / e-trees.Japan / Osaka U.)
 - Kazuhisa Ogawa (Osaka U.)
