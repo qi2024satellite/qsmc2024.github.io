@@ -16,8 +16,8 @@ description: Program
 | 12:10-13:40 | | Lunch (1.5h) |
 | 13:40-14:20 | Noriyuki Kushida (OQC) | TBA |
 | 14:20-16:20 | | Poster session |
-| 16:20-17:00 | Neil Lambert (RIKEN) | TBA |
-| 17:00-18:00 | TBA (Quantinuum) | TBA (online) |
+| 16:20-17:00 | Neil Lambert (RIKEN) | QuTiP v5: Updates, new applications, and challenges for the future |
+| 17:00-18:00 | Ross Duncan (Quantinuum) | TBA |
 | 18:00 | | Networking event |
 | **Oct. 18th (Fri)** | | |
 | 10:10-10:50 | Miwako Tsuji (RIKEN) | Proof of concepts experiments and challenges in our quantum-HPC hybrid platform |
