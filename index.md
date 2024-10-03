@@ -30,6 +30,7 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
 
 - Ilkwon Byun (Kyushu U.)
 - Stefano Carrazza (U. Millan / TII)
+- Ross Duncan (Quantinuum)
 - Naoki Kanazawa (IBM)
 - Shinji Kikuchi (Fujitsu)
 - Noriyuki Kushida (OQC)
@@ -39,7 +40,6 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
 - Kazuhisa Ogawa (Osaka U.)
 - Yasunari Suzuki (NTT)
 - Miwako Tsuji (RIKEN)
-- TBA
 - TBA
 (Alphabetical order)
 
