@@ -14,7 +14,7 @@ description: Program
 | 10:50-11:30 | Shinji Kikuchi (Fujitsu) | TBA |
 | 11:30-12:10 | Takafumi Miyanaga (Osaka U.) | Development of a Cloud Quantum Computing System at Osaka University |
 | 12:10-13:40 | | Lunch (1.5h) |
-| 13:40-14:20 | Noriyuki Kushida (OQC) | TBA |
+| 13:40-14:20 | Noriyuki Kushida (OQC) | Overview and Future Prospects of OQC's Quantum Assembly Toolchain |
 | 14:20-16:20 | | Poster session |
 | 16:20-17:00 | Neil Lambert (RIKEN) | QuTiP v5: Updates, new applications, and challenges for the future |
 | 17:00-18:00 | Ross Duncan (Quantinuum) | How to use a quantum computer |
