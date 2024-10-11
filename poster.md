@@ -16,7 +16,6 @@ description: Poster
 | 6          | Shohei Miyakoshi (Osaka U.)        | Formulation of Quantum Circuit Optimization Technique Based on Density Matrix Renormalization Group      |
 | 7          | Cainelli Mauro (Kyoto U.)        | QUANTUM INVERSE ITERATION ALGORITHM PERFORMANCE EVALUATION EMPLOYING GAUSSIAN-QUADRATURE INTEGRATION      |
 | 8          | Akira SaiToh (Sojo U.)        | Parallel processing performance of an arbitrary-precision library for QIP studies in the recent machine environment      |
-|------------|---------|-------|
 
 
 [back](./)
