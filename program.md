@@ -11,7 +11,7 @@ description: Program
 | **Oct. 17th (Thu)** | | |
 | 10:00-10:10 | | Opening |
 | 10:10-10:50 | Stefano Carrazza (U. Millan / TII) | A full-stack open-source framework for self-hosted quantum devices |
-| 10:50-11:30 | Shinji Kikuchi (Fujitsu) | TBA |
+| 10:50-11:30 | Shinji Kikuchi (Fujitsu) | Quantum Application Research at Fujitsu |
 | 11:30-12:10 | Takafumi Miyanaga (Osaka U.) | Development of a Cloud Quantum Computing System at Osaka University |
 | 12:10-13:40 | | Lunch (1.5h) |
 | 13:40-14:20 | Kazuhisa Ogawa (Osaka U.) | Development of Superconducting Quantum Computer at. QIQB, Osaka University |
@@ -27,7 +27,7 @@ description: Program
 | 13:40-14:20 | Noriyuki Kushida (OQC) | Overview and Future Prospects of OQC's Quantum Assembly Toolchain |
 | 14:20-15:00 | Ilkwon Byun (Kyushu U.) | Scalable Control System Architecture for Large-scale Superconducting Quantum Computers |
 | 15:00-15:40 | Takefumi Miyoshi (QuEL / e-trees.Japan / Osaka U.) | Toward a Scalable and Heterogeneous Qubit Controller System |
-| 15:40-16:20 | TBA | TBA |
+| 15:40-16:20 |  | Lab tour |
 | 16:20-16:30 | | Closing |
 
 
