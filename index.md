@@ -19,7 +19,7 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
 
 [Poster presentation list](poster.md)
 
-[Conference photo]
+[Conference photo](DSC01897_2.jpg)
 
 ## Registration
 
