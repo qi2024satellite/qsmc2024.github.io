@@ -19,6 +19,8 @@ This workshop is being organized in conjunction with the QI2024 event to bring t
 
 [Poster presentation list](poster.md)
 
+[Conference photo]
+
 ## Registration
 
 - **Registration form:** [registration page](https://forms.gle/H8CY4kfHZVAGxxPJ6).
